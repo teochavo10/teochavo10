@@ -4,7 +4,31 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-teochavo10/teochavo10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+Yazılım Mühendisi
+Istanbul – RTCO İletişim ve Bilgi Sistemleri
+Ocak 2010 – Nisan 2011
+Müşteri davranışları analizi
+J2EE ve JBossAS kullanarak algoritmik trade projeleri geliştirme
+Uzman Yazılım Mühendisi
+Istanbul – Commencis
+Nisan 2011 – Eylül 2020
+
+Uluslararası bankalar için Windows Phone ve Blackberry uygulamaları geliştirme
+Java, Kotlin, Android SDK, Android Architecture Components, MVC ve MVMM mimarileri kullanarak Android uygulamaları geliştirme
+Projelerde teknik liderlik
+Milyonlarca kişinin kullandığı Türkiye İş Bankası mobil uygulaması (İşCep) için yeni bir altyazı hazırlama
+Acemi yazılımcılara mentorlük yapmaYazılım Mühendisi
+Istanbul – RTCO İletişim ve Bilgi Sistemleri
+Ocak 2010 – Nisan 2011
+Müşteri davranışları analizi
+J2EE ve JBossAS kullanarak algoritmik trade projeleri geliştirme
+Uzman Yazılım Mühendisi
+Istanbul – Commencis
+Nisan 2011 – Eylül 2020
+
+Uluslararası bankalar için Windows Phone ve Blackberry uygulamaları geliştirme
+Java, Kotlin, Android SDK, Android Architecture Components, MVC ve MVMM mimarileri kullanarak Android uygulamaları geliştirme
+Projelerde teknik liderlik
+Milyonlarca kişinin kullandığı Türkiye İş Bankası mobil uygulaması (İşCep) için yeni bir altyazı hazırlama
+Acemi yazılımcılara mentorlük yapma
